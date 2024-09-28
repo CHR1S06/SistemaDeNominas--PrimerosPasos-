@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.exe
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.deps.json
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.runtimeconfig.json
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.dll
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\bin\Debug\netcoreapp3.1\SistemaDeNominas.pdb
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.dll
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.pdb
+C:\Users\UserGPC\source\repos\SistemaDeNominas\SistemaDeNominas\obj\Debug\netcoreapp3.1\SistemaDeNominas.genruntimeconfig.cache
